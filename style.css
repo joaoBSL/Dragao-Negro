@@ -1,0 +1,58 @@
+body{
+    p{
+        border: 3px solid darkred
+    }
+    h2{
+        color: darkorange;
+        
+    }
+    h3{
+        color: red;
+    }
+    color: darkred;
+    background-color: black;
+    text-align: center;
+}
+
+
+h1{
+    color: orange;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 20px;
+    text-align: center;
+
+}
+
+#aparencia{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+img{
+    text-align: center;
+    border: 5px solid darkorange;
+    width: 25%;
+    height: 25%;
+}
+
+#habitat{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#habilidade{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#curiosidade{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
